@@ -19,8 +19,13 @@ img {
   border: dashed #ff0066 25px;
 }
 
-div {
+.family {
   width: 32%;
+  float: left;
+}
+
+.pair {
+  width: 16%;
   float: left;
 }
 
