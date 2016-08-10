@@ -18,6 +18,16 @@ h3 {
   clear: both;
 }
 
+.col-xs-2 {
+  width: 16%;
+  float: left;
+}
+
+.students {
+  background: linear-gradient(90deg, rgba(254,254,254,.4), rgba(0,0,0,.4));
+  padding: 10px;
+}
+
 .action {
   padding: 10px;
   background: #ff0066;
