@@ -1,7 +1,7 @@
 # :tada: [First Epicodus Webpage](http://karenfreemansmith.github.io/first-epicodus-webpage) :balloon:
 
 __Version 1.0.0: August 2, 2016__
-#### by [Karen Freeman-Smith](http://karenfreemansmith.github.io)  and [Amber Farrington](https://github.com/NWShadowDev)
+#### by [Karen Freeman-Smith](http://karenfreemansmith.github.io) and [Amber Farrington](https://github.com/NWShadowDev)
 
 ### Description
 __*First website project for Epicodus*__
@@ -13,7 +13,7 @@ __*First website project for Epicodus*__
 For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
 
 ### Known Issues
-* No bugs, only undocumented features!
+* None
 
 ### Technologies Used
 #### HTML, CSS
